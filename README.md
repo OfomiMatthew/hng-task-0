@@ -1,4 +1,4 @@
-# HNGx Stage One Task API
+# HNG Stage One Task API
 
 This backend API was developed for HNG Stage 0. It features an endpoint that returns the developer's email, the current date and time, and a GitHub repository link. The API is hosted on vercel.  
 **Live API Endpoint**: [Live API Endpoint](https://hng-task-0-zeta.vercel.app/api/profiles)
@@ -41,5 +41,10 @@ This backend API was developed for HNG Stage 0. It features an endpoint that ret
 
 ### Example usage:
    - curl -X GET https://hng-task-0-zeta.vercel.app/api/profiles
+
+## Hire Developers
+Looking to hire experienced developers? Check out these links:
+- [Python Developers](https://hng.tech/hire/python-developers)
+  
 
 
