@@ -25,5 +25,5 @@ This backend API was developed for HNG Stage 0. It features an endpoint that ret
 ### Steps
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/hngx-stage-one-task.git
-   cd hngx-stage-one-task
+   git clone https://github.com/OfomiMatthew/hng-task-0.git
+   cd hng-task-0
