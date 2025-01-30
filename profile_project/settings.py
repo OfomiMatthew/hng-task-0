@@ -34,8 +34,8 @@ INSTALLED_APPS = [
     
 ]
 
-MY_EMAIL = 'ofomimatthew7@gmail.com'
-GITHUB_URL = 'https://github.com/OfomiMatthew/hng-task-0'
+MY_EMAIL='ofomimatthew7@gmail.com'
+GITHUB_URL='https://github.com/OfomiMatthew/hng-task-0'
 
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
