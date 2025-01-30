@@ -27,3 +27,14 @@ This backend API was developed for HNG Stage 0. It features an endpoint that ret
    ```bash
    git clone https://github.com/OfomiMatthew/hng-task-0.git
    cd hng-task-0
+
+## Api Documentation
+- GET api/profiles
+- **Description:** returns developer email address, current datetime and github repo link
+- **Response format:**
+     ```json
+{
+    "email": "ofomimatthew7@gmail.com",
+    "current_datetime": "2025-01-30T14:03:58Z",
+    "github_url": "<https://github.com/OfomiMatthew/hng-task-0>"
+}
