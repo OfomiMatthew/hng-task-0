@@ -9,9 +9,9 @@ This backend API was developed for HNG Stage 0. It features an endpoint that ret
 - Includes the GitHub URL of the project's codebase.
 
 ## Technologies Used
-- **Python** (3.9+)
-- **Django** (4.2+)
-- **Django REST Framework** (3.14+)
+- **Python** (3.11+)
+- **Django** (5.1+)
+- **Django REST Framework** (3.15+)
 - **django-cors-headers** (for CORS handling)
 
 ---
@@ -19,7 +19,7 @@ This backend API was developed for HNG Stage 0. It features an endpoint that ret
 ## Setup and Installation
 
 ### Prerequisites
-- Python 3.9+
+- Python 3.11+
 - pip
 
 ### Steps
