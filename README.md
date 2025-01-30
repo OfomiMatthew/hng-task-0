@@ -1,7 +1,7 @@
 # HNGx Stage One Task API
 
-A simple Django REST Framework (DRF) API that returns user information for the HNGx internship program.  
-**Live API Endpoint**: [https://your-deployed-url.herokuapp.com/api/](https://your-deployed-url.herokuapp.com/api/)
+This backend API was developed for HNG Stage 0. It features an endpoint that returns the developer's email, the current date and time, and a GitHub repository link. The API is hosted on vercel.  
+**Live API Endpoint**: [Live API Endpoint](https://hng-task-0-zeta.vercel.app/api/profiles)
 
 ## Features
 - Returns the user's registered Slack email.
