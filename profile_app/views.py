@@ -12,7 +12,7 @@ class ProfileView(APIView):
     
     data = {
       "email":settings.MY_EMAIL,
-      "current_datetime":timezone.now().strftime("%Y-%m-%dT%H:%M:%SZ"),
+      "current_datetime":timezone.now().strftime("%Y-%m-%dT%H:%M:%S.%f")[:-3] + 'Z',
       "github_url":settings.GITHUB_URL,
     }
     return Response(data, status=status.HTTP_200_OK)
