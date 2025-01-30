@@ -38,3 +38,8 @@ This backend API was developed for HNG Stage 0. It features an endpoint that ret
     "current_datetime": "2025-01-30T14:03:58Z",
     "github_url": "<https://github.com/OfomiMatthew/hng-task-0>"
       }
+
+### Example usage:
+   - curl -X GET https://hng-task-0-zeta.vercel.app/api/profiles
+
+
