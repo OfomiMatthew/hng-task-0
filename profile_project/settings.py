@@ -17,6 +17,7 @@ DEBUG = False
 
 
 ALLOWED_HOSTS = ['.vercel.app']
+CORS_ALLOW_ALL_ORIGINS = True
 
 
 # Application definition
