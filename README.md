@@ -1,7 +1,7 @@
 # HNG Stage One Task API
 
 This backend API was developed for HNG Stage 0. It features an endpoint that returns the developer's email, the current date and time, and a GitHub repository link. The API is hosted on vercel.  
-**Live API Endpoint**: [Live API Endpoint](https://hng-task-0-zeta.vercel.app/api/profiles)
+**Live API Endpoint**: [Live API Endpoint](https://hng-task-0-hazel.vercel.app/)
 
 ## Features
 - Returns the user's registered Slack email.
@@ -36,11 +36,11 @@ This backend API was developed for HNG Stage 0. It features an endpoint that ret
      {
     "email": "ofomimatthew7@gmail.com",
     "current_datetime": "2025-01-30T14:03:58Z",
-    "github_url": "<https://github.com/OfomiMatthew/hng-task-0>"
+    "github_url": "https://github.com/OfomiMatthew/hng-task-0"
       }
 
 ### Example usage:
-   - curl -X GET https://hng-task-0-zeta.vercel.app/api/profiles
+   - curl -X GET https://hng-task-0-hazel.vercel.app/
 
 ## Hire Developers
 Looking to hire experienced developers? Check out these links:
